@@ -13,9 +13,20 @@ Disclaimer
 The use of this page for any illegal activity is strictly prohibited.
 The creator of this page does not endorse or support any malicious use of this project.
 Users are fully responsible for any consequences resulting from the misuse of this page.
-Usage
-Educational Demonstration: Use this page to understand the mechanics of phishing scams.
-Security Training: Share with cybersecurity professionals to help them recognize and combat phishing attacks.
-Awareness Programs: Utilize in awareness programs to educate individuals about the dangers of phishing.
+Downloading the Code
+To download the code from GitHub, follow these steps:
+
+Clone the repository using Git:
+
+bash
+Copy code
+git clone https://github.com/MiloszDeveloping/NEXI-SCAMPAGE.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd NEXI-SCAMPAGE
+You can now explore the code and use it for educational purposes as described above.
+
 Conclusion
-Use this knowledge responsibly. Always prioritize ethical behavior and compliance with legal standards. Understanding phishing is crucial to defending against it, but it must be done within the boundaries of the law
+Use this knowledge responsibly. Always prioritize ethical behavior and compliance with legal standards. Understanding phishing is crucial to defending against it, but it must be done within the boundaries of the law.
